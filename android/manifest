@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: tiacra
+author: Weixing Sun
+license: WSN
+copyright: All copyrights reserved by Weixing Sun
+
+# these should not be edited
+name: acra
+moduleid: ti.acra
+guid: 262aa88f-6e1b-4488-b6cd-b501f281cc93
+platform: android
+minsdk: 4.1.0.GA
