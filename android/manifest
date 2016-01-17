@@ -15,4 +15,4 @@ name: acra
 moduleid: ti.acra
 guid: 262aa88f-6e1b-4488-b6cd-b501f281cc93
 platform: android
-minsdk: 4.1.0.GA
+minsdk: 5.1.2.GA

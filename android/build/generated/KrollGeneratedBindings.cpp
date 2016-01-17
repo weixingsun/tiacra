@@ -1,8 +1,8 @@
-/* C++ code produced by gperf version 3.0.1 */
-/* Command-line: gperf -L C++ -E -t C:/cygwin64/tmp/SUN/acra-generated/KrollGeneratedBindings.gperf  */
+/* C++ code produced by gperf version 3.0.3 */
+/* Command-line: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/gperf -L C++ -E -t /private/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T/aimeewang/acra-generated/KrollGeneratedBindings.gperf  */
 /* Computed positions: -k'' */
 
-#line 3 "C:/cygwin64/tmp/SUN/acra-generated/KrollGeneratedBindings.gperf"
+#line 3 "/private/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T/aimeewang/acra-generated/KrollGeneratedBindings.gperf"
 
 
 #include <string.h>
@@ -12,7 +12,7 @@
 #include "ti.acra.TiacraModule.h"
 
 
-#line 13 "C:/cygwin64/tmp/SUN/acra-generated/KrollGeneratedBindings.gperf"
+#line 13 "/private/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T/aimeewang/acra-generated/KrollGeneratedBindings.gperf"
 struct titanium::bindings::BindEntry;
 /* maximum key range = 1, duplicates = 0 */
 
@@ -48,15 +48,15 @@ TiacraBindings::lookupGeneratedInit (register const char *str, register unsigned
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
       {""}, {""},
-#line 15 "C:/cygwin64/tmp/SUN/acra-generated/KrollGeneratedBindings.gperf"
+#line 15 "/private/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T/aimeewang/acra-generated/KrollGeneratedBindings.gperf"
       {"ti.acra.TiacraModule", ::ti::acra::TiacraModule::bindProxy, ::ti::acra::TiacraModule::dispose}
     };
 
   if (len <= MAX_WORD_LENGTH && len >= MIN_WORD_LENGTH)
     {
-      register int key = hash (str, len);
+      unsigned int key = hash (str, len);
 
-      if (key <= MAX_HASH_VALUE && key >= 0)
+      if (key <= MAX_HASH_VALUE)
         {
           register const char *s = wordlist[key].name;
 
@@ -66,5 +66,5 @@ TiacraBindings::lookupGeneratedInit (register const char *str, register unsigned
     }
   return 0;
 }
-#line 16 "C:/cygwin64/tmp/SUN/acra-generated/KrollGeneratedBindings.gperf"
+#line 16 "/private/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T/aimeewang/acra-generated/KrollGeneratedBindings.gperf"
 

@@ -1,187 +1,187 @@
-C:\cygwin64\tmp\/SUN/acra-generated/obj/local/x86/objs/ti.acra/ti.acra.TiacraModule.o: \
+/var/folders/hn/jw7lmhl52hq3dw7g8lm1wm5r0000gn/T//aimeewang/acra-generated/obj/local/x86/objs/ti.acra/ti.acra.TiacraModule.o: \
  jni/ti.acra.TiacraModule.cpp jni/ti.acra.TiacraModule.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/jni.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdarg.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/Proxy.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/v8.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/v8stdint.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stddef.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdio.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdio.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/stdint.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/_types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/_types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/posix_types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/stddef.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/compiler.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/types.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/kernel.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JavaObject.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/assert.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/assert.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/EventEmitter.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/NativeObject.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/AndroidUtil.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/log.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdlib.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdlib.h \
- E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/string.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/string.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/alloca.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/strings.h \
- E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/memory.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/EventEmitter.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JNIUtil.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/AndroidUtil.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JSException.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/ProxyFactory.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/TypeConverter.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/V8Util.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h \
- C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/Proxy.h
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/jni.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/cdefs.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/android/api-level.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdarg.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/features.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/host.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/Proxy.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/v8.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/v8stdint.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stddef.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdio.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/stdio.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/stdint.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/_types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/machine/_types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/posix_types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/stddef.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/compiler.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/posix_types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/types.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/machine/kernel.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JavaObject.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/assert.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/assert.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/EventEmitter.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/NativeObject.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/AndroidUtil.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/android/log.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdlib.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/stdlib.h \
+ /Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/string.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/string.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/malloc.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/alloca.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/strings.h \
+ /Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/memory.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/EventEmitter.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JNIUtil.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/AndroidUtil.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JSException.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/ProxyFactory.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/TypeConverter.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/V8Util.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/org.appcelerator.kroll.KrollModule.h \
+ /Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/Proxy.h
 
 jni/ti.acra.TiacraModule.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/jni.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/jni.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/cdefs.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/cdefs_elf.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/api-level.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/android/api-level.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdarg.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdarg.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/features.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/features.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/host.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/host.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/Proxy.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/Proxy.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/v8.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/v8.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/v8stdint.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/v8stdint.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stddef.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stddef.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdio.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdio.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdio.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/stdio.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/stdint.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/stdint.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/_types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/_types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/_types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/machine/_types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/posix_types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/posix_types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/stddef.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/stddef.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/compiler.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/compiler.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/posix_types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/posix_types_32.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/asm/types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/asm/types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/linux/types.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/linux/types.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/machine/kernel.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/machine/kernel.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JavaObject.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JavaObject.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/assert.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/assert.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/assert.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/assert.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/EventEmitter.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/EventEmitter.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/NativeObject.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/NativeObject.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/AndroidUtil.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/AndroidUtil.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/android/log.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/android/log.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/stdlib.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/stdlib.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/stdlib.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/stdlib.h:
 
-E:/Android/android-ndk-r10e/sources/cxx-stl/stlport/stlport/string.h:
+/Users/aimeewang/Library/android-ndk-macosx/sources/cxx-stl/stlport/stlport/string.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/../include/string.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/../include/string.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/malloc.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/malloc.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/alloca.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/alloca.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/strings.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/strings.h:
 
-E:/Android/android-ndk-r10e/platforms/android-9/arch-x86/usr/include/memory.h:
+/Users/aimeewang/Library/android-ndk-macosx/platforms/android-9/arch-x86/usr/include/memory.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/EventEmitter.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/EventEmitter.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JNIUtil.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JNIUtil.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/AndroidUtil.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/AndroidUtil.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/JSException.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/JSException.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/ProxyFactory.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/ProxyFactory.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/TypeConverter.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/TypeConverter.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/V8Util.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/V8Util.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/org.appcelerator.kroll.KrollModule.h:
 
-C:\ProgramData\Titanium\mobilesdk\win32\4.1.0.GA/android/native/include/Proxy.h:
+/Users/aimeewang/Library/Application\ Support/Titanium/mobilesdk/osx/5.1.2.GA/android/native/include/Proxy.h:
